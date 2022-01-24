@@ -16,3 +16,4 @@ six==1.15.0
 soupsieve==2.3.1
 sqlparse==0.4.2
 urllib3==1.26.8
+gunicorn
